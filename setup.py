@@ -17,7 +17,7 @@ setup(
                      "that is easy to distribute, aka PYPI accessible.",
     author='Brent Payne',
     author_email='brent.payne@gmail.com',
-    url='http://www.github.com/brentpayne/wikimedia2text',
+    url='http://www.github.com/brentpayne/wikimedia2text-py',
     packages=find_packages(exclude=('test*',)),
     install_requires=requirements,
     keywords=['wikipedia', 'wikimedia', 'parse', 'parsing', '2text'],
